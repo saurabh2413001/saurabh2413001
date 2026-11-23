@@ -1,4 +1,3 @@
- 
 <!-- Profile README -->
 
 <div align="center">
@@ -51,13 +50,15 @@ I believe consistent problem-solving builds strong engineering fundamentals.
 
 <div align="center">
 
+<!--RATINGS_START-->
 | Platform | Rating |
 |:---:|:---:|
-| 🟠 LeetCode | **1674** (Peak: 1725) |
-| 🟡 CodeChef | **1557** |
+| 🟠 [LeetCode](https://leetcode.com/u/saurabh_bhati) | **1674** (Peak: 1725) |
+| 🟡 [CodeChef](https://www.codechef.com/users/quick_web_79) | **1557** |
 | 🟡 CodeChef DSA | **2087** |
-| 🔵 Codeforces | **1356** |
-| 🟣 AtCoder | **1375** |
+| 🔵 [Codeforces](https://codeforces.com/profile/Saurabh2413001) | **1356** |
+| 🟣 [AtCoder](https://atcoder.jp/users/thakur_saurabh) | **1375** |
+<!--RATINGS_END-->
 
 <br/>
 
