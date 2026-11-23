@@ -1,4 +1,5 @@
- <!-- Profile README -->
+ 
+<!-- Profile README -->
 
 <div align="center">
 
@@ -62,6 +63,38 @@ I believe consistent problem-solving builds strong engineering fundamentals.
 
 <img src="https://img.shields.io/badge/Problems%20Solved-1680%2B-success?style=for-the-badge&logo=leetcode" />
 <img src="https://img.shields.io/badge/Contests%20Participated-119%2B-blue?style=for-the-badge" />
+
+</div>
+
+---
+
+## 📊 My Coding Portfolio – Codolio
+
+<div align="center">
+
+<a href="https://codolio.com/profile/thakur_saurabh">
+<img src="https://img.shields.io/badge/CODOLIO-Explore%20My%20Coding%20Portfolio-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### One Profile. Multiple Platforms. Complete Coding Journey.
+
+**Explore my combined coding achievements and progress.**
+
+| Portfolio | Details |
+|:---|:---|
+| 🧩 Problem Solving | Combined DSA statistics |
+| 🏆 Competitive Programming | Contest ratings and performance |
+| 📈 Coding Activity | Submission history and consistency |
+| 💻 Development | Projects and GitHub activity |
+| ⭐ C-Score | Overall coding portfolio score |
+
+<br/>
+
+<a href="https://codolio.com/profile/thakur_saurabh">
+<img src="https://img.shields.io/badge/VIEW%20MY%20CODOLIO%20PROFILE-Open%20Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
@@ -185,7 +218,7 @@ A machine learning application that predicts IPL match outcomes using historical
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh2413001&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=saurabh2413001&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" />
 
 </div>
 
@@ -229,6 +262,9 @@ I'm always open to interesting projects, hackathons, open-source contributions, 
 <a href="https://github.com/saurabh2413001">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
+<a href="https://codolio.com/profile/thakur_saurabh">
+<img src="https://img.shields.io/badge/Codolio-Portfolio-6C63FF?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -259,4 +295,3 @@ I'm always open to interesting projects, hackathons, open-source contributions, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
 
 </div>
-
